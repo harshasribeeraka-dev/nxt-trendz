@@ -1,0 +1,31 @@
+/* Write your CSS here */
+
+.cart-summary {
+  border-top: 1px solid #d7dfe9;
+  padding-top: 20px;
+}
+
+.summary-title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #171f46;
+}
+
+.summary-price {
+  font-weight: 700;
+  color: #0b69ff;
+}
+
+.summary-items {
+  color: #616e7c;
+  margin: 10px 0;
+}
+
+.checkout-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
